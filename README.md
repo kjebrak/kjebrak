@@ -1,4 +1,13 @@
 <h2> Hey there! I'm Kjetil from Norway.</h2>
-<a href="https://kjebrak.github.io/" target="_blank">
-  Link to portfolio page (being updated)
-</a>
+<ul>
+  <li>
+  <a href="https://kjebrak.github.io/" target="_blank">
+    Portfolio page (being updated)
+  </a>
+  </li>
+  <li>
+  <a href="https://www.linkedin.com/in/kjetil-brakstad/" target="_blank">
+    LinkedIn page
+  </a>
+  </li>
+<ul>
